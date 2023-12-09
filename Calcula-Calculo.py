@@ -1,6 +1,5 @@
 
 print('Calcula - Calculo')
-
 print('Digite o primeiro numero: ')
 nUm = int(input())
 print('Digite o segundo numero: ')
